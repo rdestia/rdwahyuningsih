@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Wahyuningsih Notes"
+  description: "Economics | Self-Development | Research"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Blog"
+        href: index.qmd
+      - text: "Portfolio"
+        href: portfolio.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/rdestia
+
+format:
+  html:
+    theme: cosmo
+    highlight-style: github
+    toc: true
+    toc-depth: 2
+
+    

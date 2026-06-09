@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/rdestia
+    - icon: envelope
+      text: Email
+      href: mailto:emailkamu@gmail.com
+---
+
+Hi! I'm **Rani**, a Master's student in Economics at Universitas Gadjah Mada.
+
+I write about economics, self-development, and reflections on ideas I find interesting. 
+This site also serves as my academic portfolios including research, book reviews, 
+and notes from my journey in applied econometrics.
