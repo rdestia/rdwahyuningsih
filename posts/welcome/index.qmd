@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Rani D. Wahyuningsih"
 date: "2026-06-06"
 categories: [news]
 ---
